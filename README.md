@@ -1,18 +1,7 @@
-Our application boasts a sleek and intuitive interface designed to captivate users
-from the moment they land on the front page. Upon arrival, users are presented
-with the option to input either a Finnish city or any location across the globe, be
-it a city, country, or state.
-With a seamless user experience in mind, our interface offers two distinct
-pathways: weather and statistics. The weather feature provides users with realtime and forecasted weather updates, along with insightful climate information
-tailored to the specified location.
-For those keen on delving into the statistical landscape of Finland, our platform
-offers a comprehensive statistical analysis, exclusively available when a Finnish
-city is selected. Users can access yearly population data and engage in an
-educational quiz segment, where they can put their newfound knowledge to the
-test. The quiz comprises thoughtfully crafted questions, providing users with
-immediate feedback on their accuracy and further enriching their understanding
-of Finnish demographics.
-By seamlessly intertwining data-driven insights with an engaging user
-experience, our application empowers users to effortlessly explore the world
-around them while fostering a deeper understanding of local and global climates
-and demographics.
+Our app has an easy-to-use interface that greets users with options to enter either a Finnish city or any location worldwide. It offers two main features: weather and statistics.
+
+The weather feature provides real-time updates and forecasts for the chosen location.
+
+If a Finnish city is selected, users can explore detailed population statistics and take a fun quiz to test their knowledge about Finland. The quiz gives instant feedback to help users learn more about Finnish demographics.
+
+Overall, our app combines helpful data and an engaging experience, allowing users to learn about local and global climates and populations.
